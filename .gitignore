@@ -39,3 +39,4 @@ __pycache__/
 /yolo_ocr.spec
 /nul
 /*.md
+!README.md
