@@ -1,4 +1,4 @@
-# 只上传 app/, onnxocr/ 和 best-v3.onnx
+# 只上传 app/, onnxocr/, images/ 和 best-v3.onnx
 # 排除其他所有文件
 
 # Python 缓存
