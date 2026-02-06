@@ -1,0 +1,41 @@
+# 只上传 app/, onnxocr/ 和 best-v3.onnx
+# 排除其他所有文件
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+.vscode/
+
+# 排除所有其他目录和文件
+/.venv/
+/build/
+/dist/
+/data/
+/dataset/
+/datasets/
+/debug_roi/
+/discuss/
+/docs/
+/logs/
+/model_b/
+/output/
+/paddle_finetune/
+/scripts/
+/test_images/
+/tools/
+
+# 排除其他模型文件
+/best.pt
+/best-v2.onnx
+
+# 排除其他文件
+/train.py
+/data.yaml
+/yolo_ocr.spec
+/nul
+/*.md
