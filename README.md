@@ -18,7 +18,7 @@
 ## 演示效果
 
 ### 示例 1：复杂工程图纸识别
-![演示图1](images/demo1.png)
+![演示图1](images/image.png)
 
 ### 示例 2：多尺寸标注识别
 ![演示图2](images/demo2.png)
